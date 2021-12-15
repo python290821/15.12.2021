@@ -29,3 +29,6 @@ class DbRepo:
 
     def get_by_column_value(self, table_class, column_name, value):
         pass
+
+    def get_by_ilike(self, etgar, mmmm):
+        pass
